@@ -1,0 +1,16 @@
+{
+	"category" : "IdleTime-Watcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"logger",
+		"tracker",
+		"server" ],
+	"name" : "IdleTimeServer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

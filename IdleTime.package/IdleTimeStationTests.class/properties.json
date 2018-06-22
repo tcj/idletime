@@ -1,0 +1,14 @@
+{
+	"category" : "IdleTime-Watcher-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"station" ],
+	"name" : "IdleTimeStationTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

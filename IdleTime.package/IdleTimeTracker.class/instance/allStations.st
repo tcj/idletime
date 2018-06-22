@@ -1,0 +1,3 @@
+reports
+allStations
+	^ stationRegistry allStations

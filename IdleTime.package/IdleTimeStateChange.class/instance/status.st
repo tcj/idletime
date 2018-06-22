@@ -1,0 +1,3 @@
+shortcuts
+status
+	^ self state

@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"emptyRecord" : "tcj 6/21/2018 11:45",
+		"emptyRecordForStation:" : "tcj 6/22/2018 11:59",
+		"newFromDictionary:" : "tcj 6/21/2018 12:53",
+		"sample1" : "tcj 6/21/2018 10:44",
+		"sample2" : "tcj 6/21/2018 12:16" },
+	"instance" : {
+		"computerName" : "tcj 6/20/2018 16:51",
+		"computerName:" : "tcj 6/20/2018 16:51",
+		"happenedLongAgo" : "tcj 6/22/2018 12:19",
+		"idleTimeSeconds" : "tcj 6/20/2018 16:51",
+		"idleTimeSeconds:" : "tcj 6/20/2018 16:51",
+		"initialize" : "tcj 6/20/2018 16:53",
+		"ipAddress" : "tcj 6/20/2018 16:51",
+		"ipAddress:" : "tcj 6/20/2018 16:51",
+		"logOnStream:" : "tcj 6/20/2018 17:57",
+		"timeStamp" : "tcj 6/20/2018 16:51",
+		"timeStamp:" : "tcj 6/20/2018 16:51",
+		"timestamp" : "tcj 6/22/2018 12:12",
+		"timestamp:" : "tcj 6/22/2018 12:12" } }

@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"compareOldRecord:toNewRecord:" : "tcj 6/20/2018 17:18",
+		"initialize" : "tcj 6/20/2018 17:14" },
+	"instance" : {
+		"calculateState" : "tcj 6/22/2018 12:24",
+		"computerName" : "tcj 6/21/2018 14:07",
+		"initialize" : "tcj 6/21/2018 14:41",
+		"ipAddress" : "tcj 6/21/2018 14:05",
+		"logToTranscript" : "tcj 6/21/2018 14:44",
+		"newRecord" : "tcj 6/20/2018 17:19",
+		"newRecord:" : "tcj 6/20/2018 17:19",
+		"newTime" : "tcj 6/20/2018 17:15",
+		"noChange" : "tcj 6/21/2018 12:24",
+		"oldRecord" : "tcj 6/20/2018 17:19",
+		"oldRecord:" : "tcj 6/20/2018 17:19",
+		"oldTime" : "tcj 6/20/2018 17:15",
+		"resumedReporting" : "tcj 6/22/2018 12:21",
+		"state" : "tcj 6/20/2018 16:32",
+		"state:" : "tcj 6/20/2018 16:20",
+		"status" : "tcj 6/22/2018 15:41",
+		"timestamp" : "tcj 6/21/2018 14:52",
+		"timestamp:" : "tcj 6/21/2018 14:52",
+		"wentActive" : "tcj 6/20/2018 17:31",
+		"wentIdle" : "tcj 6/20/2018 17:31" } }

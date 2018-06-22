@@ -1,0 +1,14 @@
+{
+	"category" : "IdleTime-Reporter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tracker" ],
+	"name" : "IdleTimeReporterComponent",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

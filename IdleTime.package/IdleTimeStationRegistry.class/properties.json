@@ -1,0 +1,14 @@
+{
+	"category" : "IdleTime-Watcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tcj 6/21/2018 10:24",
+	"instvars" : [
+		"stations" ],
+	"name" : "IdleTimeStationRegistry",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"forComputer:" : "tcj 6/11/2018 13:23",
+		"initialize" : "tcj 6/11/2018 13:27",
+		"log:" : "tcj 6/11/2018 13:48",
+		"logRecord:" : "tcj 6/20/2018 17:46" },
+	"instance" : {
+		"computerId" : "tcj 6/11/2018 13:23",
+		"computerId:" : "tcj 6/11/2018 13:23",
+		"ffpan" : "tcj 6/11/2018 13:23",
+		"ffpan:" : "tcj 6/11/2018 13:23",
+		"initialize" : "tcj 6/11/2018 13:28",
+		"logEntry:" : "tcj 6/20/2018 18:07",
+		"logRecord:" : "tcj 6/21/2018 10:48",
+		"writeLogEntry:onStream:" : "tcj 6/20/2018 18:06" } }

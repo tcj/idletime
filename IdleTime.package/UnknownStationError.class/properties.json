@@ -1,0 +1,14 @@
+{
+	"category" : "IdleTime-Watcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stationName" ],
+	"name" : "UnknownStationError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

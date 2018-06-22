@@ -1,0 +1,3 @@
+shortcuts
+oldTime
+	^ oldRecord idleTimeSeconds

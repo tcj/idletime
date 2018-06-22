@@ -1,0 +1,15 @@
+{
+	"category" : "IdleTime-Watcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DefaultLogDirectory" ],
+	"commentStamp" : "tcj 6/20/2018 16:47",
+	"instvars" : [
+		"computerId",
+		"ffpan" ],
+	"name" : "IdleTimeLogger",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

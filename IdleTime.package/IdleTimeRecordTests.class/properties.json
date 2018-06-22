@@ -1,0 +1,17 @@
+{
+	"category" : "IdleTime-Watcher-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"record",
+		"sampleDictionary",
+		"station",
+		"registry" ],
+	"name" : "IdleTimeRecordTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

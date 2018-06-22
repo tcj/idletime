@@ -1,0 +1,17 @@
+{
+	"category" : "IdleTime-Watcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tcj 6/21/2018 10:36",
+	"instvars" : [
+		"timeStamp",
+		"computerName",
+		"ipAddress",
+		"idleTimeSeconds" ],
+	"name" : "IdleTimeRecord",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

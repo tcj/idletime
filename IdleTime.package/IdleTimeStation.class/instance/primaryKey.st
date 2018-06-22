@@ -1,0 +1,3 @@
+other
+primaryKey
+	^ self shortName

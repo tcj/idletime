@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "tcj 6/21/2018 12:25",
+		"tearDown" : "tcj 6/21/2018 11:51",
+		"testActiveStateChange" : "tcj 6/21/2018 12:26",
+		"testLastRecord" : "tcj 6/21/2018 12:17",
+		"testNoChange" : "tcj 6/21/2018 12:26",
+		"testStateChange" : "tcj 6/21/2018 12:25" } }

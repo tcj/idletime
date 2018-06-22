@@ -1,0 +1,17 @@
+{
+	"category" : "IdleTime-Watcher",
+	"classinstvars" : [
+		"DefaultInstance",
+		"TestInstance" ],
+	"classvars" : [
+		"StatusMapper" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lastRecords",
+		"stationRegistry",
+		"stateChanges" ],
+	"name" : "IdleTimeTracker",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

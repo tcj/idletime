@@ -1,0 +1,14 @@
+{
+	"category" : "IdleTime-Reporter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tracker" ],
+	"name" : "IdleTimeSession",
+	"pools" : [
+		 ],
+	"super" : "WASession",
+	"type" : "normal" }
