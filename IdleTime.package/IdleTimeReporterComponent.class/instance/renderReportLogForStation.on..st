@@ -1,5 +1,5 @@
-as yet unclassified
-renderDetailsForStation: aStation on: html
+rendering
+renderReportLogForStation: aStation on: html
 	| stateChanges stamp headerText |
 	headerText := '{1}: {2}' format: { aStation computerName.  tracker statusStringForStation: aStation }.
 	html heading level: 3; with: headerText.

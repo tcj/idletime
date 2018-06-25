@@ -1,3 +1,3 @@
-as yet unclassified
+testing
 testComputerName
 	self assert: [record computerName = 'TEST-01']

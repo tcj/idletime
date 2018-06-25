@@ -4,7 +4,8 @@ go
 
 	| port |
 	port := 9999.
-	server := WebServer new listenOn: port.
+	server ifNil: [server := WebServer new].
+	server listenOn: port.
 	server addService: '/idletime' action:[:req| 
 		req isPostRequest ifTrue:[
 			"We fetch all of the data instead of streaming it"

@@ -1,4 +1,8 @@
-as yet unclassified
+rendering
 renderContentOn: html
-	(tracker allStations asSortedCollection: [:a :b | a computerName <= b computerName]) do: [:station | self renderDetailsForStation: station on: html].
+	self renderLocationsOn: html.
+	self renderReportingStationsOn: html.
+	self renderUnreportingStationsOn: html.
+	"show report log for every station."
+	tracker allStationsSorted do: [:station | self renderReportLogForStation: station on: html].
 	

@@ -5,11 +5,12 @@
 		"TestInstance" ],
 	"classvars" : [
 		"StatusMapper" ],
-	"commentStamp" : "",
+	"commentStamp" : "tcj 6/25/2018 11:22",
 	"instvars" : [
 		"lastRecords",
 		"stationRegistry",
-		"stateChanges" ],
+		"stateChanges",
+		"lastCheckTime" ],
 	"name" : "IdleTimeTracker",
 	"pools" : [
 		 ],

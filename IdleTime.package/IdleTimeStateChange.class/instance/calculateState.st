@@ -1,16 +1,16 @@
 other
 calculateState
 	"If the oldValue (idle seconds) is greater than the newValue, a state change has occurred"
-	( ( self oldTime >= IdleTimeThreshold ) and: (self oldTime > self newTime ) )
+	( oldRecord isIdle and: [newRecord isActive] )
 		ifTrue: [ ^ #wentActive ].
 
 	"are we past the idle time threshold, such that we have gone idle?"
-	( (self oldTime < IdleTimeThreshold) and: (self newTime >= IdleTimeThreshold) )
+	( oldRecord isActive and: [newRecord isIdle] )
 		ifTrue: [ ^ #wentIdle ].		
 
 	"did the last record happen more than (threshold minutes) ago?"
 	"perhaps this test would be better if compared against the new record instead of DateAndTime now"
-	(self oldRecord happenedLongAgo) 
+	(oldRecord happenedLongAgo and: [newRecord happenedRecently]) 
 		ifTrue: [ ^ #resumedReporting ].
 		
 	"otherwise, no change"	

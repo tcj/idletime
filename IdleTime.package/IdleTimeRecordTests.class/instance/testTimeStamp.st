@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 testTimeStamp
 	| duration |
 	duration := (DateAndTime now - 5 minutes) to: (DateAndTime now).

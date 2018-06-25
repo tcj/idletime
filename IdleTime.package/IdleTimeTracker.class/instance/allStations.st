@@ -1,3 +1,3 @@
-reports
+registry access
 allStations
 	^ stationRegistry allStations

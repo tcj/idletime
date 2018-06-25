@@ -1,0 +1,4 @@
+lazily initialized:
+	lastCheckTime
+	
+

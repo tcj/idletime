@@ -1,4 +1,4 @@
-as yet unclassified
+running
 setUp
 	sampleDictionary := Dictionary new.
 	sampleDictionary at: 'cn' put: 'TEST-01'.

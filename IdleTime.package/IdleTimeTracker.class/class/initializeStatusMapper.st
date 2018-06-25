@@ -4,8 +4,8 @@ initializeStatusMapper
 		#wentIdle -> 'idle'.
 		#wentActive -> 'active'.
 		#notReporting -> 'not reporting'.
-		#resumedReporting -> 'just resumed reporting'.
-		#startedReporting -> 'just started reporting'.
+		#resumedReporting -> 'recently resumed reporting'.
+		#startedReporting -> 'recently started reporting'.
 	}.
 	
 "

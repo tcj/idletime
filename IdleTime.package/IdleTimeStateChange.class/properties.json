@@ -9,7 +9,9 @@
 		"state",
 		"oldRecord",
 		"newRecord",
-		"timestamp" ],
+		"timestamp",
+		"activityState",
+		"reportingState" ],
 	"name" : "IdleTimeStateChange",
 	"pools" : [
 		 ],

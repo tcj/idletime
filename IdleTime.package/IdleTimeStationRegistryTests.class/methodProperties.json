@@ -2,8 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "tcj 6/21/2018 11:38",
+		"setUp" : "tcj 6/25/2018 11:42",
 		"tearDown" : "tcj 6/21/2018 11:15",
 		"testLookupFromRecord" : "tcj 6/21/2018 11:21",
+		"testRecentCheckIn" : "tcj 6/25/2018 11:42",
+		"testReportingStationsMembership" : "tcj 6/25/2018 11:46",
 		"testStationLookupError" : "tcj 6/21/2018 11:35",
-		"testStationLookupNoError" : "tcj 6/21/2018 11:36" } }
+		"testStationLookupNoError" : "tcj 6/21/2018 11:36",
+		"testStationsReporting" : "tcj 6/25/2018 11:53" } }

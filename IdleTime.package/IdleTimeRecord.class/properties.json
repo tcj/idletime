@@ -3,7 +3,7 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"IdleTimeThreshold" ],
 	"commentStamp" : "tcj 6/21/2018 10:36",
 	"instvars" : [
 		"timeStamp",

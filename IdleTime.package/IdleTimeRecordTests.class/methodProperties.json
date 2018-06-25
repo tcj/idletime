@@ -4,8 +4,11 @@
 	"instance" : {
 		"setUp" : "tcj 6/22/2018 12:11",
 		"tearDown" : "tcj 6/22/2018 12:10",
+		"testChronology" : "tcj 6/25/2018 10:01",
 		"testComputerName" : "tcj 6/20/2018 16:58",
-		"testEmptyRecord" : "tcj 6/22/2018 12:11",
+		"testEmptyRecord" : "tcj 6/25/2018 11:18",
+		"testIdle" : "tcj 6/25/2018 09:55",
 		"testIdleTimeSeconds" : "tcj 6/20/2018 17:03",
 		"testIpAddress" : "tcj 6/20/2018 16:58",
+		"testThreshold" : "tcj 6/25/2018 09:53",
 		"testTimeStamp" : "tcj 6/20/2018 17:01" } }
