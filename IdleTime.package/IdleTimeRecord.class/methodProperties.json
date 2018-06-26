@@ -2,6 +2,7 @@
 	"class" : {
 		"emptyRecord" : "tcj 6/21/2018 11:45",
 		"emptyRecordForStation:" : "tcj 6/22/2018 11:59",
+		"fromString:" : "tcj 6/26/2018 12:19",
 		"idleTimeThreshold" : "tcj 6/25/2018 09:53",
 		"newFromDictionary:" : "tcj 6/21/2018 12:53",
 		"sample1" : "tcj 6/21/2018 10:44",
@@ -20,6 +21,7 @@
 		"isEmptyRecord" : "tcj 6/25/2018 11:18",
 		"isIdle" : "tcj 6/25/2018 09:54",
 		"logOnStream:" : "tcj 6/20/2018 17:57",
+		"readFromString:" : "tcj 6/26/2018 12:15",
 		"timeStamp" : "tcj 6/20/2018 16:51",
 		"timeStamp:" : "tcj 6/20/2018 16:51",
 		"timestamp" : "tcj 6/22/2018 12:12",

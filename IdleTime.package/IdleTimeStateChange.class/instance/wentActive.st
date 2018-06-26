@@ -1,3 +1,3 @@
 state testing
 wentActive
-	^ self state = #wentActive
+	^ self status wentActive

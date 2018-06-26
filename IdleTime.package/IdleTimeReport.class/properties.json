@@ -1,0 +1,17 @@
+{
+	"category" : "IdleTime-Watcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"station",
+		"changes",
+		"startDate",
+		"endDate" ],
+	"name" : "IdleTimeReport",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

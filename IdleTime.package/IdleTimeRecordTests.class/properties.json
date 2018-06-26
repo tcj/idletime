@@ -9,7 +9,8 @@
 		"record",
 		"sampleDictionary",
 		"station",
-		"registry" ],
+		"registry",
+		"fromString" ],
 	"name" : "IdleTimeRecordTests",
 	"pools" : [
 		 ],

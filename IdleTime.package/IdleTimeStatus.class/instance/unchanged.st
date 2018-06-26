@@ -1,0 +1,3 @@
+protocol
+unchanged
+	self subclassResponsibility.

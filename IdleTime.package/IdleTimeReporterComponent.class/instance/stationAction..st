@@ -1,0 +1,3 @@
+rendering
+stationAction: aStation
+	tracker divideDailyReportForTodayForStation: aStation.

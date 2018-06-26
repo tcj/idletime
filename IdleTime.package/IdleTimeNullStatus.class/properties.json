@@ -1,0 +1,14 @@
+{
+	"category" : "IdleTime-Watcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "IdleTimeNullStatus",
+	"pools" : [
+		 ],
+	"super" : "IdleTimeStatus",
+	"type" : "normal" }

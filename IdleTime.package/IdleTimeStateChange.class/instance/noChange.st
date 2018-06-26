@@ -1,3 +1,3 @@
 state testing
 noChange
-	^ self state = #noChange
+	^ self status unchanged

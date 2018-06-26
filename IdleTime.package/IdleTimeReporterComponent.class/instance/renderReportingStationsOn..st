@@ -6,8 +6,14 @@ renderReportingStationsOn: html
 	html table: [
 		html tableRow: [ 
 			html tableData: 'station'.
-			stations do: [:station | html tableData: station computerName.].
-		].
+			stations do: [:station | 
+				html tableData: [ 
+					html anchor 
+						callback: [ self stationAction: station ]; 
+						with: station computerName.
+					]
+				 ]
+			].
 		html tableRow: [ 
 			html tableData: 'state'.
 			stations do: [:station | html tableData: (tracker statusStringForStation: station) ].
@@ -17,4 +23,3 @@ renderReportingStationsOn: html
 			stations do: [:station | html tableData: (tracker minutesSinceLastStateChangeForStation: station)]
 		].
 	].
-

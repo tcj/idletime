@@ -1,0 +1,3 @@
+protocol
+wentIdle
+	self subclassResponsibility

@@ -1,3 +1,3 @@
-as yet unclassified
+chronology
 minutesAgo
 	^ self howLongAgo roundTo: (1 minutes)

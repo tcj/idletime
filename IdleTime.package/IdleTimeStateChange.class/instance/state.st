@@ -1,4 +1,8 @@
 accessing
 state
-	
-	^ state ifNil: [state := self calculateState]
+	^ state 
+		ifNil: [ 
+			self status 
+				ifNil: [#unknown] 
+				ifNotNil: [:s | s asSymbol ] ]
+		ifNotNil: [:s |  s]

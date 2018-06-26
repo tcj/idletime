@@ -1,4 +1,4 @@
-as yet unclassified
+chronology
 howLongAgo
 	"returns a duration"
 	^ DateAndTime now - self timestamp 

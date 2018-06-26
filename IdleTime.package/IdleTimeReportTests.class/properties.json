@@ -1,0 +1,22 @@
+{
+	"category" : "IdleTime-Watcher-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"report",
+		"tracker",
+		"idleRecord",
+		"activeRecord",
+		"stateChange1",
+		"stateChange2",
+		"station",
+		"foundRecord",
+		"stateChange3" ],
+	"name" : "IdleTimeReportTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

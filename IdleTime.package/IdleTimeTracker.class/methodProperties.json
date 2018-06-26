@@ -9,6 +9,9 @@
 	"instance" : {
 		"allStations" : "tcj 6/21/2018 15:01",
 		"allStationsSorted" : "tcj 6/25/2018 11:58",
+		"buildReportForStation:during:" : "tcj 6/25/2018 17:22",
+		"divideDailyReportForStation:onDate:" : "tcj 6/26/2018 12:40",
+		"divideDailyReportForTodayForStation:" : "tcj 6/26/2018 10:07",
 		"handleRecord:" : "tcj 6/25/2018 11:32",
 		"initialize" : "tcj 6/25/2018 11:22",
 		"lastCheckTime" : "tcj 6/25/2018 11:22",
@@ -24,10 +27,11 @@
 		"stateChanges" : "tcj 6/25/2018 11:22",
 		"stateChanges:" : "tcj 6/25/2018 11:22",
 		"stateChangesForStation:" : "tcj 6/21/2018 15:48",
-		"stateChangesTodayForStation:" : "tcj 6/25/2018 13:16",
+		"stateChangesForStation:onDate:" : "tcj 6/26/2018 10:04",
+		"stateChangesTodayForStation:" : "tcj 6/26/2018 10:05",
 		"stationNamed:" : "tcj 6/21/2018 12:02",
 		"stationRegistry" : "tcj 6/25/2018 11:22",
 		"stationRegistry:" : "tcj 6/25/2018 11:22",
-		"statusOfStation:" : "tcj 6/22/2018 15:48",
+		"statusOfStation:" : "tcj 6/26/2018 12:27",
 		"statusStringForStation:" : "tcj 6/22/2018 16:00",
 		"timeSinceLastStateChangeForStation:" : "tcj 6/25/2018 12:33" } }
