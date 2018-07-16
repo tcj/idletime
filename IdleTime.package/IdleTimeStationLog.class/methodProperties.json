@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"newForStation:" : "tcj 7/13/2018 15:02",
+		"newWithRecord:" : "tcj 7/13/2018 15:04" },
+	"instance" : {
+		"addSpanStartingWith:" : "tcj 7/13/2018 15:28",
+		"clearAll" : "tcj 7/13/2018 14:06",
+		"clearAllSpans" : "tcj 7/13/2018 13:57",
+		"currentStatusLength" : "tcj 7/13/2018 16:42",
+		"do:" : "tcj 7/13/2018 16:21",
+		"initialize" : "tcj 7/13/2018 13:00",
+		"lastRecord" : "tcj 7/13/2018 15:13",
+		"lastSpan" : "tcj 7/13/2018 16:20",
+		"lastStatus" : "tcj 7/13/2018 16:19",
+		"logRecord:" : "tcj 7/13/2018 14:13",
+		"minutesSinceLastStatusChange" : "tcj 7/13/2018 16:43",
+		"printOn:" : "tcj 7/13/2018 13:45",
+		"record:" : "tcj 7/13/2018 15:10",
+		"release" : "tcj 7/13/2018 12:41",
+		"spans" : "tcj 7/13/2018 13:46",
+		"spans:" : "tcj 7/13/2018 13:46",
+		"station" : "tcj 7/13/2018 12:38",
+		"station:" : "tcj 7/13/2018 12:38",
+		"statusMinutes" : "tcj 7/13/2018 16:38",
+		"timeSinceLastStatusChange" : "tcj 7/13/2018 16:43" } }

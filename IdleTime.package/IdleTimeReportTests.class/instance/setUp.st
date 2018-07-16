@@ -12,5 +12,3 @@ setUp
 	
 	stateChange3 := tracker handleRecord: activeRecord.
 
-	report := tracker buildReportForStation: station during: (Timespan starting: (Date today) duration: (1 day)).
-	

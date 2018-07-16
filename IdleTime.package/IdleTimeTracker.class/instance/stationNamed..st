@@ -1,3 +1,3 @@
-registry access
+lookup
 stationNamed: aString
 	^ stationRegistry stationNamed: aString

@@ -1,3 +1,3 @@
-as yet unclassified
+station status
 statusStringForStation: aStation
-	^ StatusMapper at: (self statusOfStation: aStation) ifAbsent: ['unclear']
+	^ (self statusOfStation: aStation) statusString

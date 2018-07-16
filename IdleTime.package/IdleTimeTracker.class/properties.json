@@ -9,7 +9,7 @@
 	"instvars" : [
 		"lastRecords",
 		"stationRegistry",
-		"stateChanges",
+		"stationLogs",
 		"lastCheckTime" ],
 	"name" : "IdleTimeTracker",
 	"pools" : [

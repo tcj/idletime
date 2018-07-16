@@ -1,4 +1,3 @@
 convenience
 logRecord: aRecord
-	^ ( self forComputer: (aRecord computerName) )
-		logRecord: aRecord.
+	^ aRecord logger logRecord: aRecord.

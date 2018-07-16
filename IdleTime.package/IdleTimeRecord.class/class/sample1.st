@@ -6,3 +6,7 @@ sample1
 	d at: 'idletime' put: 669.
 	d at: 'ip' put: '127.0.0.1'.
 	^ self newFromDictionary: d.
+
+"
+self sample1
+"

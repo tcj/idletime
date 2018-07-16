@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"newWithTimestamp:" : "tcj 6/26/2018 11:51" },
+		"newWithTimestamp:" : "tcj 6/26/2018 11:51",
+		"statusString" : "tcj 7/13/2018 16:23" },
 	"instance" : {
 		"asSymbol" : "tcj 6/26/2018 12:00",
 		"initialize" : "tcj 6/26/2018 11:28",

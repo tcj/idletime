@@ -2,15 +2,13 @@ rendering
 renderReportingStationsOn: html
 	| stations |
 	html heading level: 2; with: 'reporting stations'.
-	stations := tracker stationRegistry reportingStations sorted.
+	stations := tracker reportingStations sorted.
 	html table: [
 		html tableRow: [ 
 			html tableData: 'station'.
 			stations do: [:station | 
 				html tableData: [ 
-					html anchor 
-						callback: [ self stationAction: station ]; 
-						with: station computerName.
+					html text: station computerName.
 					]
 				 ]
 			].
@@ -19,7 +17,7 @@ renderReportingStationsOn: html
 			stations do: [:station | html tableData: (tracker statusStringForStation: station) ].
 		].
 		html tableRow: [
-			html tableData: 'd:h:m:s'.
-			stations do: [:station | html tableData: (tracker minutesSinceLastStateChangeForStation: station)]
+			html tableData: 'for how long'.
+			stations do: [:station | html tableData: (tracker statusLengthForStation: station)]
 		].
 	].

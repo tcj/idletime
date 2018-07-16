@@ -1,0 +1,3 @@
+shortcuts
+newIdleTime
+	^ newRecord idleTimeSeconds

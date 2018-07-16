@@ -1,0 +1,4 @@
+accessing
+newRecord
+	
+	^ newRecord

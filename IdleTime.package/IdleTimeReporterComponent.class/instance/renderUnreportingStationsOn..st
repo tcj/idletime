@@ -12,8 +12,8 @@ renderUnreportingStationsOn: html
 			html tableData: 'last state'.
 			stations do: [:station | html tableData: (tracker statusStringForStation: station) ].
 		].	
-		html tableRow: [
-			html tableData: 'd:h:m:s ago' .
+"		html tableRow: [
+			html tableData: 'for how long' .
 			stations do: [:station | html tableData: (tracker minutesSinceLastStateChangeForStation: station)]
-		].		
+		].	"	
 	]

@@ -1,4 +1,4 @@
-printing
+logging
 readFromString: aString
 	| elems |
 	elems := aString findTokens: ','.

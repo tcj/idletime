@@ -1,0 +1,4 @@
+other
+hasRecentReport
+
+	^ newRecord happenedRecently

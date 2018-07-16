@@ -1,4 +1,4 @@
-printing
+logging
 logOnStream: aStream
 	aStream nextPutAll: ( 
 		{ 	self timeStamp asString.

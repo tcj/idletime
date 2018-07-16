@@ -1,0 +1,17 @@
+{
+	"category" : "IdleTime-Watcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"status",
+		"timespan",
+		"active",
+		"reporting" ],
+	"name" : "IdleTimeStatusSpan1",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

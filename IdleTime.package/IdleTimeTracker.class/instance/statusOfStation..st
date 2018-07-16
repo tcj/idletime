@@ -1,3 +1,3 @@
-as yet unclassified
+station status
 statusOfStation: aStation
-	^ (self stateChangesForStation: aStation) first state
+	^ (self logForStation: aStation) lastStatus

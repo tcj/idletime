@@ -1,0 +1,14 @@
+{
+	"category" : "IdleTime-Watcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ffpan" ],
+	"name" : "IdleTimeLog",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

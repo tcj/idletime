@@ -5,4 +5,4 @@ periodicCheckForQuietStations
 	threshold := 5 minutes.
 	now := DateAndTime now.
 	((now - self lastCheckTime ) >= threshold)
-		ifTrue: [  ]
+		ifTrue: [ lastCheckTime := DateAndTime now  ]
