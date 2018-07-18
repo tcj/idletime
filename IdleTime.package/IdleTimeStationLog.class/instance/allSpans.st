@@ -1,0 +1,3 @@
+utilities
+allSpans
+	^ self spans

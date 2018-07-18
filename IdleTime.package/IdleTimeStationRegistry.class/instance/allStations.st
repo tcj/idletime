@@ -1,3 +1,4 @@
 only lookup
 allStations
-	^ stations values
+	self flag: #inefficient.
+	^ stations values reject: [:station | station computerName = 'timjohnson']

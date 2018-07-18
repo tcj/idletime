@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"allStations" : "tcj 6/21/2018 15:00",
+		"allStations" : "tcj 7/16/2018 12:55",
 		"allStationsSorted" : "tcj 6/25/2018 11:56",
 		"initialize" : "tcj 6/21/2018 10:23",
 		"lastCheckInByStation" : "tcj 6/25/2018 11:33",
@@ -20,6 +20,7 @@
 		"stationNamed:" : "tcj 6/21/2018 11:34",
 		"stations" : "tcj 6/25/2018 11:33",
 		"stations:" : "tcj 6/25/2018 11:33",
+		"stationsFiltered:andSorted:" : "tcj 7/16/2018 10:07",
 		"stationsNotReporting" : "tcj 6/25/2018 11:52",
 		"stationsNotReportingSince:" : "tcj 6/25/2018 14:40",
 		"stationsReporting" : "tcj 6/25/2018 11:52",

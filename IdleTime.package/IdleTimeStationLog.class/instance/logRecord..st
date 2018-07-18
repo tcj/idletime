@@ -10,4 +10,5 @@ logRecord: aRecord
 			lastSpan record: aRecord ]
 		ifFalse: [ 
 			"otherwise, start a new span representing the new status"
+			lastSpan conclude.
 			self addSpanStartingWith: aRecord ]
