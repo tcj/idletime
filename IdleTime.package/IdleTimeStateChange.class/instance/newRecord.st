@@ -1,4 +1,0 @@
-accessing
-newRecord
-	
-	^ newRecord

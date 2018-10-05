@@ -24,5 +24,6 @@ setUp
 	idleThenRecord := IdleTimeRecord newFromDictionary: d1.
 	idleThenRecord timeStamp: (now - idleSeconds seconds).
 
-	stateChangeToIdle := activeThenRecord stateChangeVersus: idleNowRecord.
-	stateChangeToActive := idleThenRecord stateChangeVersus: activeNowRecord.
+"	stateChangeToIdle := activeThenRecord stateChangeVersus: idleNowRecord.
+	stateChangeToActive := idleThenRecord stateChangeVersus: activeNowRecord."
+	

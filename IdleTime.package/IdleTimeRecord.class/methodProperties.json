@@ -1,6 +1,5 @@
 {
 	"class" : {
-		"emptyRecord" : "tcj 6/21/2018 11:45",
 		"emptyRecordForStation:" : "tcj 6/22/2018 11:59",
 		"fromString:" : "tcj 6/26/2018 12:19",
 		"idleTimeThreshold" : "tcj 6/25/2018 09:53",
@@ -23,8 +22,6 @@
 		"logOnStream:" : "tcj 6/20/2018 17:57",
 		"logToDisk" : "tcj 7/2/2018 12:11",
 		"logger" : "tcj 7/2/2018 12:09",
-		"readFromString:" : "tcj 6/26/2018 12:15",
-		"stateChangeVersus:" : "tcj 7/13/2018 13:39",
 		"status" : "tcj 7/13/2018 13:13",
 		"timeStamp" : "tcj 6/20/2018 16:51",
 		"timeStamp:" : "tcj 6/20/2018 16:51",

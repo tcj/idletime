@@ -1,3 +1,0 @@
-shortcuts
-newTime
-	^ newRecord idleTimeSeconds

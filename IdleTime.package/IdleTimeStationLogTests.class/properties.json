@@ -1,17 +1,17 @@
 {
-	"category" : "IdleTime-Watcher",
+	"category" : "IdleTime-Watcher-Tests",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
+		"log",
+		"registry",
 		"station",
-		"changes",
-		"startDate",
-		"endDate" ],
-	"name" : "IdleTimeReport",
+		"tracker" ],
+	"name" : "IdleTimeStationLogTests",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "TestCase",
 	"type" : "normal" }
