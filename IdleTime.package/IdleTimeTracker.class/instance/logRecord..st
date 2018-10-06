@@ -6,4 +6,4 @@ logRecord: aRecord
 		at: station 
 		ifAbsentPut: [IdleTimeStationLog newForStation: station withRecord: aRecord].
 	
-	log record: aRecord.
+	log logRecord: aRecord.

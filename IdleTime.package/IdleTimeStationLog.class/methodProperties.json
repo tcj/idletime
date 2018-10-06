@@ -1,7 +1,8 @@
 {
 	"class" : {
-		"fromOldFile:" : "tcj 10/5/2018 15:11",
+		"fromOldFile:" : "tcj 10/5/2018 16:36",
 		"newForStation:" : "tcj 7/13/2018 15:02",
+		"newForStation:fromOldFile:" : "tcj 10/5/2018 16:01",
 		"newForStation:withRecord:" : "tcj 10/5/2018 15:30" },
 	"instance" : {
 		"addSpanStartingWith:" : "tcj 7/13/2018 15:28",
@@ -16,8 +17,8 @@
 		"lastStatus" : "tcj 7/13/2018 16:19",
 		"logRecord:" : "tcj 7/16/2018 10:31",
 		"minutesSinceLastStatusChange" : "tcj 7/13/2018 16:43",
+		"notEmpty" : "tcj 10/5/2018 16:47",
 		"printOn:" : "tcj 7/13/2018 13:45",
-		"record:" : "tcj 7/13/2018 15:10",
 		"release" : "tcj 7/13/2018 12:41",
 		"spans" : "tcj 7/13/2018 13:46",
 		"spans:" : "tcj 7/13/2018 13:46",

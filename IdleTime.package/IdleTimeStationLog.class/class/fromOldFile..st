@@ -1,10 +1,17 @@
 as yet unclassified
 fromOldFile: aFileName
-	| s lines records first | 
-	s := FileStream oldFileNamed: aFileName.
+	| s records station log | 
+	"Create a new log from an old log file.  Reverse contents of log file so we start from the oldest entry."
 	records := OrderedCollection new.
-	lines := s contents lines.
-	first := lines removeFirst.
 
-	s contents linesDo: [:line | records add: (IdleTimeRecord fromString: line) ].
-	^ records
+	s := FileStream oldFileNamed: aFileName.
+	[
+		s contents lines do: [:line | records add: (IdleTimeRecord fromString: line)].
+	] ensure: [s close].
+	
+	station := IdleTimeStation newFromRecord: (records first).
+	
+	log := IdleTimeStationLog newForStation: station.
+	records reversed do: [:record | log logRecord: record].
+		
+	^ log
