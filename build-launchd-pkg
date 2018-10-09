@@ -7,6 +7,9 @@ outpkgfile="out/edu_sfai_digital_idletime_launchd.pkg"
 launchdaemon="$(pwd)/LaunchDaemon"
 installloc="/"
 
+sudo chown -R root:wheel "${launchdaemon}/*"
+sudo chmod -R a+r "${launchdaemon}/*"
+
 if [ -f "${outpkgfile}" ]
 then
         # use existing file;  increment version
