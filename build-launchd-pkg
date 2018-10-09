@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# install LaunchDaemon for idletime
+# timj oct 2018
+
+outpkgfile="out/edu_sfai_digital_idletime_launchd.pkg"
+launchdaemon="$(pwd)/LaunchDaemon"
+installloc="/"
+
+if [ -f "${outpkgfile}" ]
+then
+        # use existing file;  increment version
+        sudo pkgbuild --ownership preserve --install-location "${installloc}" --prior "${outpkgfile}" --root "${launchdaemon}" "${outpkgfile}"
+else
+        sudo pkgbuild --ownership preserve --install-location "${installloc}" --version 0.1 --identifier edu.sfai.digital.idletime-launchd --root "${launchdaemon}" "${outpkgfile}"
+fi
+
+
