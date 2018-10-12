@@ -1,4 +1,4 @@
-as yet unclassified
+instance creation
 newFromDictionary: aDict
 	^ self new 
 		computerName: (aDict at: 'cn');

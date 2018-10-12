@@ -1,4 +1,4 @@
-other
+state testing
 hasRecentReport
 
 	^ newRecord happenedRecently

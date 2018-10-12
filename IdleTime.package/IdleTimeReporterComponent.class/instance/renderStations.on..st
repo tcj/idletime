@@ -1,6 +1,5 @@
 rendering
 renderStations: stations on: html
-
 	html table: [
 		html tableRow: [ 
 			html tableData: 'station'.

@@ -1,4 +1,4 @@
-recording
+reaping
 periodicCheckForQuietStations
 	| now threshold | 
 	"this stands to be optimized and reworked greatly"

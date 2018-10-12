@@ -1,0 +1,14 @@
+{
+	"category" : "IdleTime-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "IdleTimeReaperRecord",
+	"pools" : [
+		 ],
+	"super" : "IdleTimeRecord",
+	"type" : "normal" }

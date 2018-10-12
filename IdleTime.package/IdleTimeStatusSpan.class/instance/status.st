@@ -1,4 +1,4 @@
-accessing
+state testing
 status
 
 	^ self oldRecord 

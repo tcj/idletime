@@ -1,6 +1,6 @@
 rendering
 renderFilterSelectionOn: html
-	html render: calendar.
+"	html render: calendar."
 	html form: [
 		html div: [
 			html select 
@@ -9,4 +9,4 @@ renderFilterSelectionOn: html
 			html submitButton text: 'filter'
 		].
 	].
-html paragraph: self calendarDate.
+"html paragraph: self calendarDate."

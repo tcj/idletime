@@ -1,7 +1,7 @@
 printing
 friendlyString
 	| span | 
-	span := self timespanOldToNew asDuration roundTo: (1 minutes).
+	span := self statusMinutes.
 	^ self hasRecentReport
 		ifTrue: [ span printString, ' [ongoing]'  ]
 		ifFalse: [ span printString ]

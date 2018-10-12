@@ -1,4 +1,4 @@
-as yet unclassified
+reading from textfile
 fromOldFile: aFileName
 	| s records station log | 
 	"Create a new log from an old log file.  Reverse contents of log file so we start from the oldest entry."

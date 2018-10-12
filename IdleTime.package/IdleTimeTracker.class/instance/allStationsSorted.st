@@ -1,3 +1,3 @@
-registry access
+stations
 allStationsSorted
 	^ stationRegistry allStationsSorted

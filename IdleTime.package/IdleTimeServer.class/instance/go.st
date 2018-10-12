@@ -3,7 +3,7 @@ go
 	"based on WebServer class>>exampleDoIt"
 
 	| port |
-	port := 9999.
+	port := self class defaultPortNumber.
 	server ifNil: [server := WebServer new].
 	server listenOn: port.
 	server addService: '/idletime' action:[:req| 

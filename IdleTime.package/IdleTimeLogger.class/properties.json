@@ -1,10 +1,10 @@
 {
-	"category" : "IdleTime-Watcher",
+	"category" : "IdleTime-Server",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		"DefaultLogDirectory" ],
-	"commentStamp" : "tcj 6/20/2018 16:47",
+	"commentStamp" : "tcj 10/11/2018 11:47",
 	"instvars" : [
 		"computerId",
 		"ffpan" ],

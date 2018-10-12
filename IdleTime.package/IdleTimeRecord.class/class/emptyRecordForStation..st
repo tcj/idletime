@@ -1,4 +1,4 @@
-as yet unclassified
+instance creation
 emptyRecordForStation: aStation
 	^ self new
 		computerName: (aStation computerName);

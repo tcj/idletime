@@ -1,3 +1,5 @@
 chronology
 currentStatusLength
-	^ self lastSpan ifNotNil: [:span | span timespanOldToNew]
+	^ self lastSpan
+		ifNil: [ Timespan starting: (Time now) ending: (Time now)  ]
+		ifNotNil: [:span | span timespanOldToNew]

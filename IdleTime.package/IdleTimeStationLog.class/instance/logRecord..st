@@ -1,4 +1,4 @@
-other
+logging spans
 logRecord: aRecord
 	| lastSpan |
 	lastSpan := [spans last] on: Error do: [self addSpanStartingWith: aRecord].

@@ -1,4 +1,4 @@
-as yet unclassified
+examples
 sample1
 	| d | 
 	d := Dictionary new.

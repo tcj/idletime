@@ -1,10 +1,10 @@
 {
-	"category" : "IdleTime-Watcher",
+	"category" : "IdleTime-Model",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		"IdleTimeThreshold" ],
-	"commentStamp" : "tcj 6/22/2018 12:22",
+	"commentStamp" : "tcj 10/12/2018 11:11",
 	"instvars" : [
 		"oldRecord",
 		"newRecord",

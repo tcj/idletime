@@ -1,7 +1,7 @@
 {
 	"class" : {
 		"compareOldRecord:toNewRecord:" : "tcj 6/26/2018 10:58",
-		"initialize" : "tcj 6/20/2018 17:14",
+		"initialize" : "tcj 10/12/2018 09:56",
 		"newFromRecord:" : "tcj 7/13/2018 15:00" },
 	"instance" : {
 		"computerName" : "tcj 6/21/2018 14:07",
@@ -9,7 +9,7 @@
 		"concluded" : "tcj 7/16/2018 10:32",
 		"concluded:" : "tcj 7/16/2018 10:31",
 		"endTime" : "tcj 7/16/2018 12:58",
-		"friendlyString" : "tcj 7/16/2018 10:29",
+		"friendlyString" : "tcj 10/12/2018 13:45",
 		"hasRecentReport" : "tcj 7/13/2018 13:41",
 		"initialize" : "tcj 7/13/2018 13:40",
 		"ipAddress" : "tcj 6/21/2018 14:05",
@@ -20,10 +20,13 @@
 		"oldIdleTime" : "tcj 7/13/2018 13:43",
 		"oldRecord" : "tcj 6/20/2018 17:19",
 		"oldRecord:" : "tcj 6/20/2018 17:19",
+		"printOn:" : "tcj 10/12/2018 15:55",
 		"record:" : "tcj 7/13/2018 13:15",
 		"startTime" : "tcj 7/13/2018 16:43",
 		"startedOnDate:" : "tcj 7/16/2018 11:56",
 		"status" : "tcj 7/13/2018 16:14",
+		"statusLength" : "tcj 10/12/2018 13:37",
+		"statusMinutes" : "tcj 10/12/2018 13:45",
 		"statusString" : "tcj 7/13/2018 16:32",
 		"timespanOldToNew" : "tcj 6/26/2018 10:39",
 		"timestamp" : "tcj 6/21/2018 14:52",

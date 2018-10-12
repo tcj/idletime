@@ -1,5 +1,5 @@
-other
+logging spans
 lastStatus
 	^ self lastSpan
-		ifNil: [ IdleTimeUnknownStatus  ]
+		ifNil: [ IdleTimeUnknownStatus ]
 		ifNotNil: [:span | span status]

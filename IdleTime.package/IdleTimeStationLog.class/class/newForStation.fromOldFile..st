@@ -1,4 +1,4 @@
-as yet unclassified
+reading from textfile
 newForStation: aStation fromOldFile: aFileName
 	| log  s records | 
 	log := self newForStation: aStation.

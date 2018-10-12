@@ -1,0 +1,14 @@
+{
+	"category" : "IdleTime-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "IdleTimeNotReportingStatus",
+	"pools" : [
+		 ],
+	"super" : "IdleTimeStatus",
+	"type" : "normal" }

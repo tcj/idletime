@@ -1,3 +1,3 @@
-utilities
+queries
 allSpans
 	^ self spans

@@ -1,3 +1,3 @@
-accessing
+printing
 statusString
 	^ self status statusString

@@ -1,4 +1,4 @@
-as yet unclassified
+instance creation
 newForStation: aStation
 	^ self new
 		station: aStation;

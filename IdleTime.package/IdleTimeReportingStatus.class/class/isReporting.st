@@ -1,0 +1,3 @@
+protocol
+isReporting
+	^ true

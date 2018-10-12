@@ -1,5 +1,5 @@
 {
-	"category" : "IdleTime-Watcher",
+	"category" : "IdleTime-Model",
 	"classinstvars" : [
 		"DefaultInstance",
 		"TestInstance" ],
@@ -7,10 +7,10 @@
 		"StatusMapper" ],
 	"commentStamp" : "tcj 6/25/2018 11:22",
 	"instvars" : [
-		"lastRecords",
 		"stationRegistry",
 		"stationLogs",
-		"lastCheckTime" ],
+		"lastCheckTime",
+		"reaper" ],
 	"name" : "IdleTimeTracker",
 	"pools" : [
 		 ],

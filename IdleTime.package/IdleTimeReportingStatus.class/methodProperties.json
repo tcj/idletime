@@ -1,10 +1,5 @@
 {
 	"class" : {
-		"notReporting" : "tcj 6/26/2018 11:50",
-		"reporting" : "tcj 6/26/2018 11:50" },
+		"isReporting" : "tcj 10/12/2018 14:13" },
 	"instance" : {
-		"asSymbol" : "tcj 6/26/2018 11:57",
-		"statusString" : "tcj 6/26/2018 11:53",
-		"unchanged" : "tcj 6/26/2018 11:29",
-		"wentActive" : "tcj 6/26/2018 12:03",
-		"wentIdle" : "tcj 6/26/2018 12:05" } }
+		 } }

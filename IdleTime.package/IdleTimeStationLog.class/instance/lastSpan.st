@@ -1,4 +1,4 @@
-other
+logging spans
 lastSpan
 	^ spans
 		ifEmpty: [ nil ]

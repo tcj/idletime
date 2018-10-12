@@ -1,16 +1,9 @@
 {
 	"class" : {
-		"newWithTimestamp:" : "tcj 6/26/2018 11:51",
+		"isActive" : "tcj 10/12/2018 13:32",
+		"isIdle" : "tcj 10/12/2018 13:32",
+		"isNotReporting" : "tcj 10/12/2018 13:32",
+		"isReporting" : "tcj 10/12/2018 14:35",
 		"statusString" : "tcj 7/13/2018 16:23" },
 	"instance" : {
-		"asSymbol" : "tcj 6/26/2018 12:00",
-		"initialize" : "tcj 6/26/2018 11:28",
-		"printOn:" : "tcj 6/26/2018 11:59",
-		"status" : "tcj 6/26/2018 10:35",
-		"status:" : "tcj 6/26/2018 10:35",
-		"statusString" : "tcj 6/26/2018 12:47",
-		"timestamp" : "tcj 6/26/2018 10:35",
-		"timestamp:" : "tcj 6/26/2018 10:35",
-		"unchanged" : "tcj 6/26/2018 11:29",
-		"wentActive" : "tcj 6/26/2018 12:03",
-		"wentIdle" : "tcj 6/26/2018 12:04" } }
+		 } }

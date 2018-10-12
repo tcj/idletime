@@ -1,3 +1,0 @@
-protocol
-wentActive
-	self subclassResponsibility
