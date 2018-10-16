@@ -13,5 +13,5 @@
 	"name" : "IdleTimeStationLogTests",
 	"pools" : [
 		 ],
-	"super" : "TestCase",
+	"super" : "Object",
 	"type" : "normal" }

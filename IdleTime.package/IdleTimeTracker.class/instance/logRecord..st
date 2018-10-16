@@ -1,7 +1,7 @@
 log
 logRecord: aRecord
 	| log station | 
-	station := stationRegistry stationForRecord: aRecord.
+	station := stationRegistry registerStationFromRecord: aRecord.
 	log := self stationLogs 
 		at: station 
 		ifAbsentPut: [IdleTimeStationLog newForStation: station withRecord: aRecord].

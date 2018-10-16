@@ -1,3 +1,3 @@
-state testing
+accessing
 concluded
-	^ self concluded ifNil: [ self hasRecentReport not]
+	^ concluded

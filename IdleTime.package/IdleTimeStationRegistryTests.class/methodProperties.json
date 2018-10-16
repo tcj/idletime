@@ -2,11 +2,14 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "tcj 6/25/2018 11:42",
+		"record" : "tcj 10/15/2018 16:16",
+		"record:" : "tcj 10/15/2018 16:16",
+		"registry" : "tcj 10/15/2018 16:16",
+		"registry:" : "tcj 10/15/2018 16:16",
+		"setUp" : "tcj 10/15/2018 16:16",
+		"station" : "tcj 10/15/2018 16:16",
+		"station:" : "tcj 10/15/2018 16:16",
 		"tearDown" : "tcj 6/21/2018 11:15",
-		"testLookupFromRecord" : "tcj 6/21/2018 11:21",
-		"testRecentCheckIn" : "tcj 6/25/2018 11:42",
-		"testReportingStationsMembership" : "tcj 6/25/2018 11:46",
+		"testLookupFromRecord" : "tcj 10/15/2018 16:16",
 		"testStationLookupError" : "tcj 6/21/2018 11:35",
-		"testStationLookupNoError" : "tcj 6/21/2018 11:36",
-		"testStationsReporting" : "tcj 6/25/2018 11:53" } }
+		"testStationLookupNoError" : "tcj 10/15/2018 16:17" } }

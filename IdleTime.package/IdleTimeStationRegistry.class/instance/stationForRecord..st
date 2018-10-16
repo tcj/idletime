@@ -1,4 +1,5 @@
-lookup or create
+only lookup
 stationForRecord: aRecord
-	"create station if it doesn't already exist"
-	^ stations at: aRecord computerName ifAbsentPut: [IdleTimeStation newFromRecord: aRecord]
+	| stationName |
+	stationName := aRecord computerName.	
+	^ stations at: stationName ifAbsent: [UnknownStationError signal: stationName]

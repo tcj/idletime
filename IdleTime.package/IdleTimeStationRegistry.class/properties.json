@@ -6,8 +6,7 @@
 		 ],
 	"commentStamp" : "tcj 6/21/2018 10:24",
 	"instvars" : [
-		"stations",
-		"lastCheckInByStation" ],
+		"stations" ],
 	"name" : "IdleTimeStationRegistry",
 	"pools" : [
 		 ],

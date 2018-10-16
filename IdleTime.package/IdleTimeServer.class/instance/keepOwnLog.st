@@ -1,0 +1,3 @@
+server control
+keepOwnLog
+	^ true

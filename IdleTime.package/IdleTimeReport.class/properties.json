@@ -1,0 +1,15 @@
+{
+	"category" : "IdleTime-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"log",
+		"timespan" ],
+	"name" : "IdleTimeReport",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

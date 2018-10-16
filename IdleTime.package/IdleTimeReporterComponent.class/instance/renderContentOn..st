@@ -1,12 +1,13 @@
 rendering
 renderContentOn: html
 	| stations count perRow station |
+	self renderUnreportingStationsOn: html.
+	
 	self renderFilterSelectionOn: html.
 	
 "	self renderLocationsOn: html."
-"	self renderReportingStationsOn: html.
-	self renderUnreportingStationsOn: html.
-"
+"	self renderReportingStationsOn: html."
+
 	"show report log for every station."
 	stations :=	(location = '* all')
 		ifTrue: [ tracker allStationsSorted ]
@@ -21,7 +22,7 @@ renderContentOn: html
 				0 to: (perRow - 1) do: [:x | | z | 
 					z := x + y.
 					( z <= count ) ifTrue: [
-						html tableData: [ self renderOverviewFor: (stations at: z) on: html  ].				
+						html tableData: [ self renderCurrentDataFor: (stations at: z) on: html  ].				
 					]
 				].
 			]

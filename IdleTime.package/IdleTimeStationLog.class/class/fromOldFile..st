@@ -12,6 +12,9 @@ fromOldFile: aFileName
 	station := IdleTimeStation newFromRecord: (records first).
 	
 	log := IdleTimeStationLog newForStation: station.
-	records reversed do: [:record | log logRecord: record].
+	records reversed do: [:record | 
+		log logRecord: record.
+		self halt.
+		log reap].
 		
 	^ log

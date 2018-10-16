@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"fromOldFile:" : "tcj 10/5/2018 16:36",
+		"fromOldFile:" : "tcj 10/15/2018 11:52",
 		"newForStation:" : "tcj 7/13/2018 15:02",
 		"newForStation:fromOldFile:" : "tcj 10/5/2018 16:01",
 		"newForStation:withRecord:" : "tcj 10/5/2018 15:30" },
@@ -26,10 +26,10 @@
 		"release" : "tcj 10/12/2018 15:24",
 		"spans" : "tcj 7/13/2018 13:46",
 		"spans:" : "tcj 7/13/2018 13:46",
+		"spansDuring:" : "tcj 10/15/2018 16:56",
 		"spansOnDate:" : "tcj 7/16/2018 10:47",
 		"spansToday" : "tcj 10/12/2018 13:25",
 		"station" : "tcj 7/13/2018 12:38",
 		"station:" : "tcj 7/13/2018 12:38",
-		"statusMinutes" : "tcj 7/13/2018 16:38",
 		"timeActiveToday" : "tcj 10/12/2018 13:41",
 		"timeSinceLastStatusChange" : "tcj 7/13/2018 16:43" } }

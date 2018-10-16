@@ -6,7 +6,7 @@
 	"instance" : {
 		"computerName" : "tcj 6/21/2018 14:07",
 		"conclude" : "tcj 7/16/2018 10:31",
-		"concluded" : "tcj 7/16/2018 10:32",
+		"concluded" : "tcj 10/15/2018 15:04",
 		"concluded:" : "tcj 7/16/2018 10:31",
 		"endTime" : "tcj 7/16/2018 12:58",
 		"friendlyString" : "tcj 10/12/2018 13:45",
@@ -25,9 +25,10 @@
 		"startTime" : "tcj 7/13/2018 16:43",
 		"startedOnDate:" : "tcj 7/16/2018 11:56",
 		"status" : "tcj 7/13/2018 16:14",
-		"statusLength" : "tcj 10/12/2018 13:37",
+		"statusLength" : "tcj 10/15/2018 16:56",
 		"statusMinutes" : "tcj 10/12/2018 13:45",
 		"statusString" : "tcj 7/13/2018 16:32",
-		"timespanOldToNew" : "tcj 6/26/2018 10:39",
+		"timespan" : "tcj 10/15/2018 16:55",
+		"timespanOldToNew" : "tcj 10/15/2018 16:55",
 		"timestamp" : "tcj 6/21/2018 14:52",
 		"timestamp:" : "tcj 6/21/2018 14:52" } }

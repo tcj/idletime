@@ -1,5 +1,5 @@
 rendering
-renderOverviewFor: aStation on: html
+renderCurrentDataFor: aStation on: html
 	| log |
 	log := tracker logForStation: aStation.
 	html heading level: 2; with: aStation computerName.

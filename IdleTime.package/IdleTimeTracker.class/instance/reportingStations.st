@@ -1,4 +1,3 @@
 stations
 reportingStations
-"	^ self stationRegistry reportingStations"
-	^ self allStations select: [:station | station status isReporting ]
+	^ self allStations select: [:station | (self statusOfStation: station) isReporting ]

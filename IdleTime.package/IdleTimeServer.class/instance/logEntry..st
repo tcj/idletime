@@ -3,5 +3,5 @@ logEntry: aDict
 	| record |
 	record := IdleTimeRecord newFromDictionary: aDict.
 
-	logger logRecord: record.
+	self keepOwnLog ifTrue: [ logger logRecord: record ].
 	tracker handleRecord: record.

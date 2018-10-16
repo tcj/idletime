@@ -2,7 +2,7 @@ rendering
 renderReportingStationsOn: html
 	| stations |
 	html heading level: 2; with: 'reporting stations'.
-	stations := tracker reportingStations sorted.
+	stations := tracker stationsReporting sorted.
 	html table: [
 		html tableRow: [ 
 			html tableData: 'station'.

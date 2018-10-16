@@ -1,3 +1,3 @@
 chronology
 statusLength
-	^ self timespanOldToNew asDuration
+	^ self timespan asDuration

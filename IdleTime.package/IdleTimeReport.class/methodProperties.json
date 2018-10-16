@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"on:forTimespan:" : "tcj 10/15/2018 12:59" },
+	"instance" : {
+		"log" : "tcj 10/15/2018 13:00",
+		"log:" : "tcj 10/15/2018 13:00",
+		"station" : "tcj 10/15/2018 13:00",
+		"timespan" : "tcj 10/15/2018 13:00",
+		"timespan:" : "tcj 10/15/2018 13:00" } }

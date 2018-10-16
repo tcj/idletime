@@ -1,3 +1,3 @@
-queries
+spans - history
 allSpans
 	^ self spans
