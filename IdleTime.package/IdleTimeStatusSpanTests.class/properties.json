@@ -1,0 +1,19 @@
+{
+	"category" : "IdleTime-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"span1",
+		"span2",
+		"record1",
+		"record2",
+		"record3",
+		"record4" ],
+	"name" : "IdleTimeStatusSpanTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

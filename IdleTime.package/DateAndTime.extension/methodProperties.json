@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"roundToQuarterHour" : "tcj 10/16/2018 10:43",
+		"roundUpToQuarterHour" : "tcj 10/16/2018 10:47",
+		"truncateToQuarterHour" : "tcj 10/16/2018 10:44" } }

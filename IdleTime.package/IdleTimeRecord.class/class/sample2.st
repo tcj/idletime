@@ -1,5 +1,6 @@
 examples
 sample2
+	"not idle"
 	| d | 
 	d := Dictionary new.
 	d at: 'cn' put: 'TEST-01'.
