@@ -1,0 +1,19 @@
+{
+	"category" : "IdleTime-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"date",
+		"schedule",
+		"intervals",
+		"logs",
+		"stations",
+		"usageByStation" ],
+	"name" : "IdleTimeDailyReport",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

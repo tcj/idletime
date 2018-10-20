@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"onDate:" : "tcj 10/18/2018 13:23",
+		"onDate:fromLogs:" : "tcj 10/18/2018 13:17" },
+	"instance" : {
+		"buildIntervals" : "tcj 10/18/2018 13:10",
+		"buildReport" : "tcj 10/18/2018 14:55",
+		"dailyUsage" : "tcj 10/18/2018 14:57",
+		"dailyUsageForStation:" : "tcj 10/18/2018 14:46",
+		"date" : "tcj 10/18/2018 10:47",
+		"date:" : "tcj 10/18/2018 10:47",
+		"end" : "tcj 10/18/2018 10:51",
+		"forStation:atInterval:putUsage:" : "tcj 10/18/2018 14:43",
+		"initialize" : "tcj 10/18/2018 14:55",
+		"intervals" : "tcj 10/18/2018 10:47",
+		"intervals:" : "tcj 10/18/2018 10:47",
+		"logs" : "tcj 10/18/2018 13:23",
+		"logs:" : "tcj 10/18/2018 13:23",
+		"schedule" : "tcj 10/18/2018 10:52",
+		"schedule:" : "tcj 10/18/2018 10:52",
+		"start" : "tcj 10/18/2018 10:50",
+		"stations" : "tcj 10/18/2018 13:26",
+		"stations:" : "tcj 10/18/2018 13:26",
+		"usageByStation" : "tcj 10/18/2018 13:45",
+		"usageByStation:" : "tcj 10/18/2018 13:45",
+		"usageForStation:atInterval:" : "tcj 10/18/2018 14:46" } }

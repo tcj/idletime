@@ -1,0 +1,14 @@
+{
+	"category" : "IdleTime-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"report" ],
+	"name" : "IdleTimeDailyReportTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
