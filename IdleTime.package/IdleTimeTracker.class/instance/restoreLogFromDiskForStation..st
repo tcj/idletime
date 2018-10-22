@@ -1,2 +1,0 @@
-log
-restoreLogFromDiskForStation: aStation

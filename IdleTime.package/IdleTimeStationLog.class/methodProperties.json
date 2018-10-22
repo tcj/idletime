@@ -12,8 +12,9 @@
 		"currentStatusLength" : "tcj 10/12/2018 12:07",
 		"dates" : "tcj 10/18/2018 16:49",
 		"datesForTesting" : "tcj 10/18/2018 16:55",
-		"datesOrdered" : "tcj 10/18/2018 17:31",
-		"datesSorted" : "tcj 10/18/2018 16:49",
+		"datesOrdered" : "tcj 10/22/2018 14:42",
+		"datesSorted" : "tcj 10/22/2018 14:42",
+		"datesWithoutOffsets" : "tcj 10/22/2018 15:15",
 		"do:" : "tcj 7/13/2018 16:21",
 		"initialize" : "tcj 7/13/2018 13:00",
 		"lastRecord" : "tcj 7/13/2018 15:13",
@@ -37,4 +38,4 @@
 		"station:" : "tcj 7/13/2018 12:38",
 		"timeActiveToday" : "tcj 10/12/2018 13:41",
 		"timeSinceLastStatusChange" : "tcj 7/13/2018 16:43",
-		"usageAtInterval:" : "tcj 10/22/2018 10:50" } }
+		"usageAtInterval:" : "tcj 10/22/2018 14:54" } }

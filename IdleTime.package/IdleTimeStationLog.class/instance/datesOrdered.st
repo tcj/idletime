@@ -5,5 +5,5 @@ datesOrdered
 	"use datesSorted instead"
 	| set |
 	set := Set new.
-	self allSpans do: [:span | set addAll: span dates].
+	self allSpans do: [:span | set addAll: span datesWithoutOffsets].
 	^ set asOrderedCollection
