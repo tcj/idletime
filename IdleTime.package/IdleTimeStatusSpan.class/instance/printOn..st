@@ -3,7 +3,9 @@ printOn: aStream
 	super printOn: aStream.
 	aStream 
 		nextPutAll: ' (';
-		nextPutAll: self statusString;		
+		nextPutAll: self statusString;	
+		nextPut: Character space;
+		nextPutAll: self statusMinutes printString;
 		nextPutAll: ') starting: ';
-		nextPutAll: self startTime asDate printString.
+		nextPutAll: self startTime asMailMessageString.
 		

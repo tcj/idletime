@@ -5,6 +5,7 @@ usageAtInterval: anInterval
 	date := anInterval asDate.
 	minutes := anInterval duration asMinutes.
 	notReporting := false.
-	usage := (self spansDuringTimespan: anInterval) collect: [:span | 
-		(span status) -> (span minutesIntersectingWith: anInterval) ].
+	usage := Dictionary new.
+	(self spansDuringTimespan: anInterval) do: [:span | 
+		usage at: (span status) put: (span minutesIntersectingWith: anInterval) ].
 	^ usage

@@ -5,6 +5,8 @@
 	"instance" : {
 		"buildIntervals" : "tcj 10/18/2018 13:10",
 		"buildReport" : "tcj 10/18/2018 14:55",
+		"csvFilename" : "tcj 10/22/2018 10:02",
+		"csvToTranscript" : "tcj 10/22/2018 11:01",
 		"dailyUsage" : "tcj 10/18/2018 14:57",
 		"dailyUsageForStation:" : "tcj 10/18/2018 14:46",
 		"date" : "tcj 10/18/2018 10:47",
@@ -16,11 +18,18 @@
 		"intervals:" : "tcj 10/18/2018 10:47",
 		"logs" : "tcj 10/18/2018 13:23",
 		"logs:" : "tcj 10/18/2018 13:23",
+		"outputCsv" : "tcj 10/22/2018 10:56",
+		"outputCsvOn:" : "tcj 10/22/2018 11:29",
+		"saveCsv" : "tcj 10/22/2018 10:27",
 		"schedule" : "tcj 10/18/2018 10:52",
 		"schedule:" : "tcj 10/18/2018 10:52",
 		"start" : "tcj 10/18/2018 10:50",
 		"stations" : "tcj 10/18/2018 13:26",
 		"stations:" : "tcj 10/18/2018 13:26",
+		"summarizeUsage2:" : "tcj 10/22/2018 13:24",
+		"summarizeUsage:" : "tcj 10/22/2018 12:38",
+		"summarizeUsageWithNotReporting:" : "tcj 10/22/2018 10:53",
 		"usageByStation" : "tcj 10/18/2018 13:45",
 		"usageByStation:" : "tcj 10/18/2018 13:45",
-		"usageForStation:atInterval:" : "tcj 10/18/2018 14:46" } }
+		"usageForStation:atInterval:" : "tcj 10/18/2018 14:46",
+		"writeCsvFile" : "tcj 10/22/2018 11:04" } }

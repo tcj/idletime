@@ -1,3 +1,3 @@
 chronology
 dates
-	^ self timespan dates
+	^ self timespanCanonical dates
