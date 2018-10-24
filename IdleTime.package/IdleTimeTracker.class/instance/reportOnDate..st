@@ -6,4 +6,4 @@ reportOnDate: aDate
 
 	noOffset := aDate deepCopy stripTimezone.
 	
-	^ IdleTimeDailyReport onDate: aDate fromLogs: (self logsCoveringDate: noOffset)
+	^ IdleTimeDailyReport onDate: aDate fromLogs: (self logsCoveringDate: aDate)

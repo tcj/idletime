@@ -1,3 +1,4 @@
 reporting
 logsCoveringDate: aDate
-	^ self allLogs select: [:log | log datesWithoutOffsets includes: aDate ]
+
+	^ self allLogs select: [:log | log dates includes: aDate ]

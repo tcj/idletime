@@ -2,7 +2,7 @@ rendering
 renderContentOn: html
 	| stations count perRow station |
 	self renderUnreportingStationsOn: html.
-	
+	self renderLastSpansOn: html.
 	self renderFilterSelectionOn: html.
 	
 "	self renderLocationsOn: html."

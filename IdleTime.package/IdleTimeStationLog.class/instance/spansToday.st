@@ -1,4 +1,4 @@
 spans - live today
 spansToday
-	^ self spansOnDate: Date today
+	^ self spansOnDate: (DateAndTime now asDate)
 

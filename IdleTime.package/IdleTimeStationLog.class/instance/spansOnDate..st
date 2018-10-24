@@ -1,4 +1,4 @@
 spans - history
 spansOnDate: aDate
-
-	^ self spans select: [:span | span startedOnDate: aDate ]
+	self flag: #bewareOfTimezoneOffsets.
+	^ self spans select: [:span | span dates includes: aDate ]
