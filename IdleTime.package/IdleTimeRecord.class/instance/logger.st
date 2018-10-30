@@ -1,3 +1,3 @@
 logging
 logger
-	^ IdleTimeLogger forComputer: self computerName
+	^ IdleTimeServerLogger forComputer: self computerName

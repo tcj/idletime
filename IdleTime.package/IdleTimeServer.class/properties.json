@@ -6,7 +6,6 @@
 		 ],
 	"commentStamp" : "tcj 10/11/2018 11:44",
 	"instvars" : [
-		"logger",
 		"tracker",
 		"server" ],
 	"name" : "IdleTimeServer",

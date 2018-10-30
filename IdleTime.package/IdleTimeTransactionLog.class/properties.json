@@ -1,14 +1,13 @@
 {
 	"category" : "IdleTime-Model",
 	"classinstvars" : [
-		 ],
+		"default" ],
 	"classvars" : [
-		"TransactionLog" ],
+		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"station",
-		"spans" ],
-	"name" : "IdleTimeStationLog",
+		"fileName" ],
+	"name" : "IdleTimeTransactionLog",
 	"pools" : [
 		 ],
 	"super" : "Object",

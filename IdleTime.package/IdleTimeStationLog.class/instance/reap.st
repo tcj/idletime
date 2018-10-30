@@ -1,6 +1,6 @@
 reaping
 reap
 	self needsReap ifTrue: [
-		Transcript show: self station shortName, ' needs reap'; cr.
+		TransactionLog log: ('Reaping {1}' format: { self station shortName }).
 		self logRecord: (IdleTimeReaperRecord newForStation: self station).
 	]

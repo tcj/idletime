@@ -8,7 +8,7 @@
 	"instvars" : [
 		"computerId",
 		"ffpan" ],
-	"name" : "IdleTimeLogger",
+	"name" : "IdleTimeServerLogger",
 	"pools" : [
 		 ],
 	"super" : "Object",
