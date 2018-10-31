@@ -3,10 +3,11 @@
 		"clear" : "tcj 6/21/2018 12:13",
 		"default" : "tcj 10/26/2018 10:03",
 		"defaultTest" : "tcj 6/21/2018 12:12",
-		"initialize" : "tcj 10/12/2018 11:03",
+		"initialize" : "tcj 10/31/2018 10:28",
 		"new" : "tcj 6/13/2018 12:12",
 		"notReportingThreshold" : "tcj 10/15/2018 15:22",
-		"resetStationLogs" : "tcj 7/13/2018 14:06" },
+		"resetStationLogs" : "tcj 7/13/2018 14:06",
+		"startUp:" : "tcj 10/31/2018 10:26" },
 	"instance" : {
 		"allLogs" : "tcj 10/22/2018 14:59",
 		"allStations" : "tcj 6/21/2018 15:01",
