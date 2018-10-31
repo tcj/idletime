@@ -11,10 +11,10 @@
 		"location" : "tcj 7/16/2018 09:47",
 		"location:" : "tcj 7/16/2018 09:47",
 		"locationMenuItems" : "tcj 7/16/2018 10:12",
-		"renderContentOn:" : "tcj 10/24/2018 11:11",
+		"renderContentOn:" : "tcj 10/31/2018 10:03",
 		"renderCurrentDataFor:on:" : "tcj 10/15/2018 11:38",
 		"renderFilterSelectionOn:" : "tcj 10/15/2018 11:33",
-		"renderLastSpansOn:" : "tcj 10/24/2018 11:18",
+		"renderLastSpansOn:" : "tcj 10/31/2018 10:04",
 		"renderLocationsOn:" : "tcj 6/25/2018 15:29",
 		"renderReportLogForStation:on:" : "tcj 7/16/2018 13:03",
 		"renderReportingStationsOn:" : "tcj 10/15/2018 15:19",
@@ -22,4 +22,5 @@
 		"renderUnreportingStationsOn:" : "tcj 10/15/2018 16:40",
 		"style" : "tcj 10/12/2018 16:25",
 		"tracker" : "tcj 7/16/2018 09:47",
-		"tracker:" : "tcj 7/16/2018 09:47" } }
+		"tracker:" : "tcj 7/16/2018 09:47",
+		"viewLogForStation:" : "tcj 10/31/2018 10:01" } }

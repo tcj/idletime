@@ -13,7 +13,10 @@ renderLastSpansOn: html
 			station := assoc key.
 			span := assoc value.
 			html tableRow: [ 
-				html tableData: [ html text: station shortName ].
+				html tableData: [ 
+					html anchor
+						callback: [ self viewLogForStation: station ];
+						with: [ html text: station shortName ] ].
 				html tableData: [ html text: span statusString ].
 				html tableData: [ html text: span statusMinutes ].
 			]

@@ -1,6 +1,5 @@
 rendering
 renderContentOn: html
-	| stations count perRow station |
 	self renderUnreportingStationsOn: html.
 	self renderLastSpansOn: html.
 	self renderFilterSelectionOn: html.
@@ -9,7 +8,7 @@ renderContentOn: html
 "	self renderReportingStationsOn: html."
 
 	"show report log for every station."
-	stations :=	(location = '* all')
+"	stations :=	(location = '* all')
 		ifTrue: [ tracker allStationsSorted ]
 		ifFalse: [ tracker stationRegistry stationsFiltered: [:ea | ea location = location ] andSorted: true ].
 	
@@ -27,5 +26,5 @@ renderContentOn: html
 				].
 			]
 		].
-	].		
+	].	"	
 "	stations do:  [:station | ] "

@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"tracker",
-		"selectedStation" ],
-	"name" : "IdleTimeSession",
+		 ],
+	"name" : "IdleTimeStationLogComponent",
 	"pools" : [
 		 ],
-	"super" : "WASession",
+	"super" : "WAComponent",
 	"type" : "normal" }
