@@ -1,3 +1,3 @@
 chronology
 timespanWithOffsets
-	^ Timespan starting: (oldRecord timestamp) ending: (newRecord timestamp)
+	^ Timespan starting: (oldRecord timeStamp) ending: (newRecord timeStamp)

@@ -1,3 +1,3 @@
 server control
 keepOwnLog
-	^ true
+	^ false

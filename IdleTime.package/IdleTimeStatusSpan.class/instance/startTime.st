@@ -1,3 +1,3 @@
 chronology
 startTime
-	^ self oldRecord timestamp
+	^ self oldRecord timeStamp

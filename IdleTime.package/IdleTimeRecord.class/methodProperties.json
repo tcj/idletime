@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"emptyRecordForStation:" : "tcj 6/22/2018 11:59",
+		"emptyRecordForStation:" : "tcj 11/7/2018 16:44",
 		"fromString:" : "tcj 10/5/2018 16:46",
 		"idleTimeThreshold" : "tcj 6/25/2018 09:53",
 		"newFromDictionary:" : "tcj 6/21/2018 12:53",
@@ -20,7 +20,7 @@
 		"ipAddress" : "tcj 6/20/2018 16:51",
 		"ipAddress:" : "tcj 6/20/2018 16:51",
 		"isActive" : "tcj 6/25/2018 09:55",
-		"isEmptyRecord" : "tcj 6/25/2018 11:18",
+		"isEmptyRecord" : "tcj 11/7/2018 16:43",
 		"isIdle" : "tcj 6/25/2018 09:54",
 		"isReaperRecord" : "tcj 10/12/2018 15:52",
 		"logOnStream:" : "tcj 6/20/2018 17:57",
@@ -28,7 +28,5 @@
 		"logger" : "tcj 10/26/2018 09:38",
 		"printOn:" : "tcj 10/22/2018 13:39",
 		"status" : "tcj 7/13/2018 13:13",
-		"timeStamp" : "tcj 6/20/2018 16:51",
-		"timeStamp:" : "tcj 6/20/2018 16:51",
-		"timestamp" : "tcj 6/22/2018 12:12",
-		"timestamp:" : "tcj 6/22/2018 12:12" } }
+		"timeStamp" : "tcj 11/7/2018 16:45",
+		"timeStamp:" : "tcj 6/20/2018 16:51" } }

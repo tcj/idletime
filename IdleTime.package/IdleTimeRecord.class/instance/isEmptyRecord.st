@@ -1,3 +1,3 @@
 testing
 isEmptyRecord
-	^ self timestamp = DateAndTime unixEpoch
+	^ self timeStamp = DateAndTime unixEpoch

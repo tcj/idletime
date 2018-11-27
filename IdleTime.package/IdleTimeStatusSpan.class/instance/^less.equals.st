@@ -1,3 +1,3 @@
 comparison
 <= aStatusSpan
-	^ self oldRecord timestamp <= aStatusSpan oldRecord timestamp
+	^ self oldRecord timeStamp <= aStatusSpan oldRecord timeStamp

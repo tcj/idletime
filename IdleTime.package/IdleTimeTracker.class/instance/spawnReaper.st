@@ -5,7 +5,7 @@ spawnReaper
 		[
 			self reap. 
 			(self reapInterval) wait. 
-		] repeat ] forkAt: Processor userBackgroundPriority.
+		] repeat ] forkAt: Processor userBackgroundPriority named: 'IdleTime reaper'.
 	reaper 
 		suspend;
 		resume.

@@ -1,10 +1,11 @@
 {
 	"class" : {
+		"default" : "tcj 11/7/2018 16:58",
 		"defaultPortNumber" : "tcj 10/11/2018 11:43" },
 	"instance" : {
 		"go" : "tcj 10/11/2018 11:44",
 		"initialize" : "tcj 10/26/2018 09:41",
-		"keepOwnLog" : "tcj 10/15/2018 13:05",
+		"keepOwnLog" : "tcj 11/7/2018 16:53",
 		"logEntry:" : "tcj 10/26/2018 09:38",
 		"stop" : "tcj 6/22/2018 16:37",
 		"transcriptLogEntry:" : "tcj 6/11/2018 13:38" } }

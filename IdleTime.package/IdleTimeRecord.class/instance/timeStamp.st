@@ -1,4 +1,4 @@
 accessing
 timeStamp
 	
-	^ timeStamp
+	^ timeStamp asLocal

@@ -4,5 +4,5 @@ emptyRecordForStation: aStation
 		computerName: (aStation computerName);
 		ipAddress: (aStation ipAddress);
 		idleTimeSeconds: 0;
-		timestamp: (DateAndTime unixEpoch);
+		timeStamp: (DateAndTime unixEpoch);
 		yourself

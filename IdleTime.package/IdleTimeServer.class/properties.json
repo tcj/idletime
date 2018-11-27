@@ -1,7 +1,7 @@
 {
 	"category" : "IdleTime-Server",
 	"classinstvars" : [
-		 ],
+		"DefaultInstance" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "tcj 10/11/2018 11:44",

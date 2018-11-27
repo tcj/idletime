@@ -1,3 +1,3 @@
 chronology
 endTime
-	^ self newRecord timestamp
+	^ self newRecord timeStamp

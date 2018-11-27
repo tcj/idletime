@@ -9,7 +9,8 @@
 	"instvars" : [
 		"stationRegistry",
 		"stationLogs",
-		"reaper" ],
+		"reaper",
+		"server" ],
 	"name" : "IdleTimeTracker",
 	"pools" : [
 		 ],
