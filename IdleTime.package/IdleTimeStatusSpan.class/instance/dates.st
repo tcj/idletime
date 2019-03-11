@@ -1,3 +1,3 @@
 chronology
 dates
-	^ self timespanWithOffsets dates
+	^ self datesWithoutOffsets

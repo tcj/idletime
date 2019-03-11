@@ -1,3 +1,3 @@
 chronology
-datesWithoutOffsets
+canonicalDates
 	^ self timespanWithoutOffsets dates

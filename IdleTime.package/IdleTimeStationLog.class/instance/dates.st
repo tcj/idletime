@@ -6,5 +6,5 @@ dates
 	| dates | 
 	self flag: #beware.
 	dates := Set new.
-	self allSpans do: [:span | dates addAll: (span dates).].
+	self allSpans do: [:span | dates addAll: (span canonicalDates).].
 	^ dates

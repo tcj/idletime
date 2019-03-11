@@ -5,13 +5,14 @@
 		"newFromRecord:" : "tcj 7/13/2018 15:00" },
 	"instance" : {
 		"<=" : "tcj 11/7/2018 16:44",
+		"canonicalDates" : "tcj 3/11/2019 14:33",
 		"computerName" : "tcj 6/21/2018 14:07",
 		"conclude" : "tcj 7/16/2018 10:31",
 		"concluded" : "tcj 10/15/2018 15:04",
 		"concluded:" : "tcj 7/16/2018 10:31",
 		"countMinutesByTimeSlice" : "tcj 10/16/2018 13:45",
-		"dates" : "tcj 10/22/2018 14:43",
-		"datesWithoutOffsets" : "tcj 10/22/2018 15:58",
+		"dates" : "tcj 3/11/2019 14:49",
+		"datesWithoutOffsets" : "tcj 3/11/2019 14:48",
 		"endTime" : "tcj 11/7/2018 16:44",
 		"friendlyString" : "tcj 10/12/2018 13:45",
 		"hasRecentReport" : "tcj 7/13/2018 13:41",
@@ -40,5 +41,6 @@
 		"timespan" : "tcj 10/22/2018 13:34",
 		"timespanOldToNew" : "tcj 10/15/2018 16:55",
 		"timespanWithOffsets" : "tcj 11/7/2018 16:44",
+		"timespanWithoutOffsets" : "tcj 3/11/2019 14:33",
 		"timestamp" : "tcj 6/21/2018 14:52",
 		"timestamp:" : "tcj 6/21/2018 14:52" } }

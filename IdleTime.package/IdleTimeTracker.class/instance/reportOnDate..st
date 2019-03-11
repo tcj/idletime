@@ -1,9 +1,6 @@
 reporting
 reportOnDate: aDate
-	| noOffset |
-	(aDate start offset = DateAndTime localOffset)
-		ifFalse: [self error: 'please feed me a Date in machine''s local offset'].
+	(aDate start offset = 0 minutes)
+		ifFalse: [self error: 'please feed me a Date with no timezone offset'].
 
-	noOffset := aDate deepCopy stripTimezone.
-	
 	^ IdleTimeDailyReport onDate: aDate fromLogs: (self logsCoveringDate: aDate)
